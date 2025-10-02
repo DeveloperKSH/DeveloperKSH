@@ -24,20 +24,27 @@
 
 ## 🚀 Projects
 
-- **실외 물류로봇 자율주행 스택 개발**  
-  - Nav2 기반 경로 계획 및 컨트롤러 최적화  
-  - Open-RMF 연동을 통한 다중 로봇 관제  
-  - 실제 캠퍼스 환경에서 **배달 로봇 시범 운영**
+### 1. 배달로봇 자율주행 주행 스택 (실외)
+- **기간:** 2024.04 ~ 2024.11  
+- **성과:** 평균 배달 소요 시간 30% 단축, 사고 발생률 50% 감소  
+- **기술:** ROS2, Nav2, Python, C++  
+- **레포:** [Outdoor-Delivery-Robot](https://github.com/username/Outdoor-Delivery-Robot)
 
-- **모바일 로봇 + 로봇팔 통합 시스템**  
-  - 엘리베이터 버튼 누르기 / 충전 스테이션 도킹 시뮬레이션  
-  - MoveIt2 IK + ArUco 마커 기반 Hand-Eye Calibration  
-  - imitation learning을 통한 제어 정책 경량화 및 실시간 제어 적용
+---
 
-- **AI 기반 로봇 제어 연구**  
-  - Diffusion Policy, GAIL, DAgger 등 모방학습/강화학습 기법 실험  
-  - Isaac Sim / MuJoCo에서 시뮬레이션 데이터셋 구축  
-  - 경량화 모델을 Edge Device(ODROID-H4, Jetson 등)에 이식
+### 2. 다중 로봇 관제 아키텍처 (Open-RMF)
+- **기간:** 2024.12 ~ 2025.04  
+- **성과:** 최대 4대 로봇 동시 운용, 경로 충돌률 90% 감소  
+- **기술:** ROS2, Open-RMF, Nav2, Python, C++  
+- **레포:** [Multi-Robot-Management](https://github.com/username/Multi-Robot-Management)
+
+---
+
+### 3. 물류로봇 자율주행 주행 스택 (실내)
+- **기간:** 2025.05 ~ 2025.08  
+- **성과:** LiDAR 기반 Localization 정확도 향상, 180° 센서 제약 속 안정적 주행 확보  
+- **기술:** ROS2, Nav2, Python, C++  
+- **레포:** [Indoor-Logistics-Robot](https://github.com/username/Indoor-Logistics-Robot)
 
 ---
 
