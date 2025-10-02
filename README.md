@@ -32,19 +32,22 @@
 - **주요 기여:**  
   - Planner, Controller, Behavior Tree 플러그인 운영 및 최적화  
   - 실외 환경 변수 대응 커스텀 플러그인 개발  
-  - Open-RMF 기반 관제 아키텍처 설계 및 플릿 연동  
+  - Open-RMF 기반 관제 아키텍처 설계 및 플릿 연동
+  - Gazebo 기반 시뮬레이션 검증 및 단계적 현장 적용
+  - 데이터 기반 운영 지표화를 통한 성능 개선 사이클 구축
 - 🔗 [프로젝트 레포 보기](https://github.com/username/Outdoor-Delivery-Robot)
 
 ---
 
-### 🏭 물류로봇 자율주행 스택 고도화 (실내)
+### 🏭 물류로봇 자율주행 (실내)
 - **기간:** 2025.02 ~ 2025.08 (6개월)  
 - **성과:** LiDAR 기반 Localization 정확도 향상, 180° 센서 제약 속에서도 안정적 주행 확보  
 - **기술:** Python, C++, ROS2, Nav2  
 - **주요 기여:**  
-  - LiDAR/IMU/Depth Camera 파이프라인 정비 및 동기화 안정화  
+  - 구동부 하드웨어 세팅과 LiDAR, IMU, Depth Camera 파이프라인 정비 및 시간 동기화 문제 해결
   - LiDAR 기반 Mapping + 수동 맵 정제 → Localization 정밀도 개선  
-  - Gazebo 기반 시뮬레이션 검증 및 단계적 현장 적용  
+  - Gazebo 기반 시뮬레이션 검증 및 단계적 현장 적용
+  - 데이터 기반 운영 지표화를 통한 성능 개선 사이클 구축
 - 🔗 [프로젝트 레포 보기](https://github.com/username/Indoor-Logistics-Robot)
 
 ---
