@@ -13,7 +13,7 @@
 
 - **Robotics / Simulation**  
   ![ROS2](https://img.shields.io/badge/ROS2-Foxglove?style=flat&logo=ros&logoColor=white)  
-  ![Nav2](https://img.shields.io/badge/Nav2-22314E?style=flat)  
+  ![Nav2](https://img.shields.io/badge/Nav2-00BFFF?style=flat)  
   ![OpenRMF](https://img.shields.io/badge/Open--RMF-22314E?style=flat)  
   ![Gazebo](https://img.shields.io/badge/Gazebo-orange?style=flat)
 
