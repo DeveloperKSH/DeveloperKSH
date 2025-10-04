@@ -49,7 +49,7 @@
   - LiDAR 기반 Mapping + 수동 맵 정제 → Localization 정밀도 개선  
   - Gazebo 기반 시뮬레이션 검증 및 단계적 현장 적용
   - 데이터 기반 운영 지표화를 통한 성능 개선 사이클 구축
-- 🔗 [물류로](https://github.com/DeveloperKSH/Indoor_LogisticsRobot)
+- 🔗 [물류로봇](https://github.com/DeveloperKSH/Indoor_LogisticsRobot)
 
 ---
 
