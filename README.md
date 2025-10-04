@@ -45,7 +45,7 @@
 - **성과:** LiDAR 기반 Localization 정확도 향상, 180° 센서 제약 속에서도 안정적 주행 확보  
 - **기술:** Python, C++, ROS2, Nav2, Gazebo  
 - **주요 기여:**  
-  - 구동부 하드웨어 세팅과 LiDAR, IMU, Depth Camera 파이프라인 정비 및 시간 동기화 문제 해결
+  - 구동부 하드웨어 세팅과 센서 파이프라인 정비 및 시간 동기화 문제 해결
   - LiDAR 기반 Mapping + 수동 맵 정제 → Localization 정밀도 개선  
   - Gazebo 기반 시뮬레이션 검증 및 단계적 현장 적용
   - 데이터 기반 운영 지표화를 통한 성능 개선 사이클 구축
