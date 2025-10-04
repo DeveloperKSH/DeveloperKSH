@@ -29,7 +29,7 @@
 ### 🚚 배달로봇 자율주행 & 다중 로봇 관제 (실외)
 - **기간:** 2024.05 ~ 2025.01 (8개월)  
 - **성과:** 한동대 캠퍼스 시범 서비스에서 배달 소요 시간 **30% 단축**, 사고 발생률 **75% 감소**  
-- **기술:** Python, C++, ROS2, Nav2, Open-RMF, API  
+- **기술:** Python, C++, ROS2, Nav2, Open-RMF, Gazebo  
 - **주요 기여:**  
   - Planner, Controller, Behavior Tree 플러그인 운영 및 최적화  
   - 실외 환경 변수 대응 커스텀 플러그인 개발  
@@ -43,7 +43,7 @@
 ### 🏭 물류로봇 자율주행 (실내)
 - **기간:** 2025.02 ~ 2025.08 (6개월)  
 - **성과:** LiDAR 기반 Localization 정확도 향상, 180° 센서 제약 속에서도 안정적 주행 확보  
-- **기술:** Python, C++, ROS2, Nav2  
+- **기술:** Python, C++, ROS2, Nav2, Gazebo  
 - **주요 기여:**  
   - 구동부 하드웨어 세팅과 LiDAR, IMU, Depth Camera 파이프라인 정비 및 시간 동기화 문제 해결
   - LiDAR 기반 Mapping + 수동 맵 정제 → Localization 정밀도 개선  
