@@ -36,7 +36,7 @@
   - Open-RMF 기반 관제 아키텍처 설계 및 플릿 연동
   - Gazebo 기반 시뮬레이션 검증 및 단계적 현장 적용
   - 데이터 기반 운영 지표화를 통한 성능 개선 사이클 구축
-- 🔗 [배달로봇](https://https://github.com/DeveloperKSH/Open-RMF_DeliveryRobot) / [관제서버](https://github.com/DeveloperKSH/Open-RMF_Server)
+- 🔗 [배달로봇](https://github.com/DeveloperKSH/Open-RMF_DeliveryRobot) / [관제서버](https://github.com/DeveloperKSH/Open-RMF_Server)
 
 ---
 
